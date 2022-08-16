@@ -1,0 +1,1 @@
+In this project, a webpage is made so that users can enter the tasks they need to complete. They can also take items off the list once they have completed them. With it, there is a MongoDB database. JavaScript, Node.js, Express.js, Body-Parser, EJS, Lodash, and Mongoose are used in its development.
